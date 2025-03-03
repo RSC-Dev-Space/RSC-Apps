@@ -1,0 +1,1 @@
+Le versioni con il suffisso 'debug' non sono stabili
